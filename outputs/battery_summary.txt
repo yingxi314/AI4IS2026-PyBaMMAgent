@@ -1,0 +1,13 @@
+Battery Performance Summary
+===========================
+initial_voltage_v: 3.7800805640468536
+final_voltage_v: 3.1915673891728233
+minimum_voltage_v: 3.1915673891728233
+maximum_voltage_v: 3.7800805640468536
+discharged_capacity_ah: 0.6806159999999999
+average_voltage_v: 3.7316666273974355
+approximate_energy_wh: 2.468340059040406
+simulation_duration_s: 3600.0
+runtime_s: 0.05768649998935871
+status: SUCCESS
+validation: PASS

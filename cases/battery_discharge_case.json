@@ -1,0 +1,6 @@
+{
+  "model": "SPM",
+  "c_rate": 1.0,
+  "duration_s": 3600,
+  "lower_voltage_cutoff_v": 3.0
+}
